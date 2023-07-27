@@ -1,0 +1,11 @@
+1. Put all DB you have in the "DB" folder ( never change the name because the searcher doesn't work )
+
+2. Execute the sercher.exe and write your victim and enjoy !
+
+
+
+
+
+give me a star:
+
+			https://github.com/floraawait
