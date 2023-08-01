@@ -3,6 +3,10 @@
 #### 1st・Installation (Automated installation)
 ```
 Launch the searcher.exe file. You will only have to launch it.
+
+Put all Database you have in the [DB](/DB) Folder.
+
+Write the information you want to search and enjoy it !
 ```
 
 ## Additional Informations
